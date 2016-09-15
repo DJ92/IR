@@ -1,0 +1,3 @@
+Proportion of pages with zero inlinks:7.80693212049
+Proportion of pages with zero outlinks:36.0016538727
+Proportion of pages with PR < initial PR:78.5143435377
